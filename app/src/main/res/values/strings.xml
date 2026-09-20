@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">DIBINA</string>
+    <string name="app_subtitle">Diary Kebiasaan Anak</string>
+    <string name="tagline_7kaih">7 Kebiasaan Anak Indonesia Hebat</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_recap">Rekap</string>
+    <string name="nav_create_journal">Buat Jurnal</string>
+    <string name="nav_edit_journal">Edit Jurnal</string>
+    <string name="nav_leaderboard">Leaderboard</string>
+    <string name="nav_settings">Pengaturan</string>
+
+    <!-- Authentication & Class Code -->
+    <string name="sign_in_google">Masuk dengan Google</string>
+    <string name="sign_in_prompt">Masuk menggunakan Akun Google siswa untuk memulai diary kebiasaanmu.</string>
+    <string name="class_code_title">Masukkan Kode Kelas</string>
+    <string name="class_code_description">Mintalah kode kelas kepada bapak/ibu guru untuk bergabung ke kelasmu.</string>
+    <string name="class_code_label">Kode Kelas (Contoh: K6-26)</string>
+    <string name="btn_join_class">Gabung Kelas</string>
+    <string name="error_invalid_class_code">Kode kelas tidak ditemukan atau tidak aktif. Periksa kembali penulisan kodemu.</string>
+    <string name="error_auth_failed">Gagal masuk. Pastikan koneksi internet aktif dan coba lagi.</string>
+
+    <!-- 7 Kebiasaan Anak Indonesia Hebat -->
+    <string name="habit_1_title">Bangun Pagi</string>
+    <string name="habit_1_desc">Bangun sebelum azan subuh / pukul 05.00 pagi dengan segar dan mandiri.</string>
+    <string name="habit_2_title">Beribadah</string>
+    <string name="habit_2_desc">Menjalankan ibadah dan berdoa sesuai agama dan kepercayaan masing-masing.</string>
+    <string name="habit_3_title">Berolahraga</string>
+    <string name="habit_3_desc">Melakukan senam pagi, olahraga ringan, atau aktivitas fisik minimal 15–30 menit.</string>
+    <string name="habit_4_title">Makan Sehat dan Bergizi</string>
+    <string name="habit_4_desc">Sarapan dan makan bergizi seimbang dengan sayur, lauk, buah, dan air putih.</string>
+    <string name="habit_5_title">Gemar Membaca</string>
+    <string name="habit_5_desc">Membaca buku pelajaran atau cerita bermakna minimal 15 menit setiap hari.</string>
+    <string name="habit_6_title">Bermasyarakat / Tolong Menolong</string>
+    <string name="habit_6_desc">Membantu orang tua di rumah, gotong royong, atau menolong teman di sekolah.</string>
+    <string name="habit_7_title">Tidur Tepat Waktu</string>
+    <string name="habit_7_desc">Tidur malam tepat waktu sebelum pukul 21.30 untuk menjaga kesehatan tubuh.</string>
+
+    <!-- Empty States -->
+    <string name="kabar_teman_title">Kabar Teman</string>
+    <string name="empty_feed_title">Belum ada kabar teman.</string>
+    <string name="empty_feed_desc">Kabar teman akan muncul setelah aktivitas kelas mulai dibagikan.</string>
+    <string name="empty_leaderboard_title">Leaderboard</string>
+    <string name="empty_leaderboard_desc">Leaderboard akan muncul setelah aktivitas kelas mulai berjalan.</string>
+    <string name="empty_recap_title">Belum ada jurnal.</string>
+    <string name="empty_recap_desc">Catat kebiasaan pertamamu hari ini untuk melihat riwayat aktivitas dan streak-mu.</string>
+    <string name="empty_achievement_title">Belum ada achievement yang diperoleh.</string>
+    <string name="empty_achievement_desc">Raih poin EXP dari 7 Kebiasaan Anak Indonesia Hebat untuk membuka lencana pertamamu!</string>
+
+    <!-- Settings Items -->
+    <string name="settings_profile_photo">Foto Profil</string>
+    <string name="settings_edit_profile">Edit Profil</string>
+    <string name="settings_notifications">Pengaturan Notifikasi</string>
+    <string name="settings_class_code">Kode Kelas</string>
+    <string name="settings_about">Tentang</string>
+    <string name="settings_logout">Logout</string>
+
+    <!-- Social and Feed Actions -->
+    <string name="btn_share_to_feed">Bagikan ke Kabar Teman</string>
+    <string name="share_to_feed_desc">Bagikan aktivitas positifmu agar teman sekelas terinspirasi.</string>
+    <string name="feed_shared_success">Berhasil dibagikan ke Kabar Teman!</string>
+    <string name="feed_updated_success">Kabar Teman berhasil diperbarui!</string>
+
+    <!-- Actions and General -->
+    <string name="btn_save_journal">Simpan Jurnal</string>
+    <string name="btn_update_journal">Perbarui Jurnal</string>
+    <string name="journal_saved_success">Alhamdulillah! Jurnal kebiasaan hari ini berhasil disimpan.</string>
+    <string name="exp_points">EXP</string>
+    <string name="level_label">Level</string>
+    <string name="streak_days">%d Hari Berturut-turut</string>
+    <string name="about_title">Tentang DIBINA</string>
+    <string name="about_app_name">DIBINA</string>
+    <string name="about_developed_by">Dikembangkan oleh:</string>
+    <string name="about_developer_name">Lilik Budi Maryanto</string>
+    <string name="about_school">SD Negeri Karangtalun</string>
+    <string name="about_copyright">© Copyright 2026</string>
+    <string name="about_email_label">Email:</string>
+    <string name="about_email_val">lilikmaryanto43@guru.sd.belajar.id</string>
+    <string name="about_exact_description">Aplikasi ini digunakan untuk membantu para siswa dalam membuat jurnal 7 KAIH (7 Kebiasaan Anak Indonesia Hebat) serta membangun kebiasaan positif melalui jurnal, interaksi kelas, achievement, dan sistem perkembangan diri.</string>
+    <string name="developer_attribution">Kratz - Karangtaluntroopz</string>
+
+    <!-- Logout Confirmation -->
+    <string name="logout_confirm_prompt">Apakah kamu yakin ingin keluar?</string>
+    <string name="btn_batal">Batal</string>
+    <string name="btn_keluar">Keluar</string>
+</resources>
